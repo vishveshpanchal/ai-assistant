@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Assistant Chrome Extension: Sentence Rephraser
 
 ## Project Overview
@@ -64,8 +63,6 @@ This README provides instructions on how to set up and use the AI Assistant Chro
 4. The extension will generate a grammatically correct and rephrased version of your input, which will be displayed in the input box labeled "Rephrased Sentence".
 
 Enjoy using your AI Assistant Chrome Extension!
-
->>>>>>> 7005ff9 (created chrome extension with all required functionalities)
 
 ## Note
 
