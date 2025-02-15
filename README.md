@@ -4,7 +4,7 @@
 
 This project is a Chrome extension designed to paraphrase user-input sentences using the power of OpenAI's GPT models. The AI Assistant: Sentence Rephraser leverages the OpenAI API to provide users with alternative ways to express their thoughts, helping to improve writing clarity and variety.
 
-## Technolgoies Used
+### Technolgoies Used
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
