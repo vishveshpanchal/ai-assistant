@@ -1,0 +1,33 @@
+.heading-h3 {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline solid blue;
+}
+
+.userData-input {
+    display: flex;
+    justify-content: center;
+}
+
+.responseData-input {
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#rephraseSentenceButton {
+    margin-top: 10px;
+    background: linear-gradient(to right, rgb(166, 166, 244), rgb(113, 190, 132));
+    transform: all 0.3s ease;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#rephraseSentenceButton:hover {
+    background: linear-gradient(to right, rgb(113, 190, 132), rgb(166, 166, 244));
+}
