@@ -4,6 +4,16 @@
 
 This project is a Chrome extension designed to paraphrase user-input sentences using the power of OpenAI's GPT models. The AI Assistant: Sentence Rephraser leverages the OpenAI API to provide users with alternative ways to express their thoughts, helping to improve writing clarity and variety.
 
+## Technolgoies Used
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,nodejs,expressjs,javascript,html,css,npm,bash,chrome,git,github"
+    />
+  </a>
+</p>
+
 # AI Assistant Chrome Extension
 
 This README provides instructions on how to set up and use the AI Assistant Chrome Extension, which helps rephrase sentences and correct grammatical errors.
